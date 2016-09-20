@@ -6094,7 +6094,6 @@ Items,Items,module,Magento_Checkout
 "Your Invoice #%invoice_id for Order #%order_id","Je factuur #%invoice_id voor bestelling #%order_id","theme","frontend/Magento/luma"
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Zodra je pakket verzonden wordt, sturen we je een trackingnummer.","theme","frontend/Magento/luma"
-"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Geplaatst op <span class=""no-link"">%created_at</span>","theme","frontend/Magento/luma"
 "Your shipping confirmation is below. Thank you again for your business.","Hieronder vind je de verzendbevestiging. Nogmaals bedankt voor het vertrouwen.","theme","frontend/Magento/luma"
 "Your Shipment #%shipment_id for Order #%order_id","Je verzending #%shipment_id voor bestelling #%order_id","theme","frontend/Magento/luma"
