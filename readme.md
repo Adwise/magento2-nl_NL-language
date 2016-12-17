@@ -28,7 +28,7 @@ Dutch Magento 2 translations for Magento 2 (CE), translated, optimized and maint
 * Optimize translations (in context for better experience)
 
 ### Bugs
-There are still missing some translations, due to a bug in the i18n:collect-prhases method. More information about this bug can be found on: https://github.com/magento/magento2/issues/2630. This issue will be fixed in Magento CE 2.1.0 but is already fixed in develop branch.
+There are still missing some translations, due to a bug in the i18n:collect-phrases method. More information about this bug can be found on: https://github.com/magento/magento2/issues/2630. This issue will be fixed in Magento CE 2.1.0 but is already fixed in develop branch.
 
 Please report all bugs/optimizations in Github!
 
