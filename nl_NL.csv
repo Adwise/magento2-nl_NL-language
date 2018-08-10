@@ -1933,7 +1933,7 @@ Download,Download,module,Magento_Customer
 "Please correct the email address.","Corrigeer het e-mailadres.","module","Magento_Customer"
 "We're unable to send the password reset email.","We zijn niet in staat om een wachtwoord reset e-mail te sturen.","module","Magento_Customer"
 "Please enter your email.","E-mailadres invoeren.","module","Magento_Customer"
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","Als er een account geassocieerd is met 1% ontvangt u een e-mail met een link om uw wachtwoord opnieuw in te stellen.","module","Magento_Customer"
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Als er een account geassocieerd is met %1 ontvangt u een e-mail met een link om uw wachtwoord opnieuw in te stellen.","module","Magento_Customer"
 "My Account","Mijn account","module","Magento_Customer"
 "This account is not confirmed. <a href="%1">Click here</a> to resend confirmation email.","Dit account is niet bevestigd. <a href="%1">Klik hier</a> om de bevestigingsmail opnieuw te versturen.","module","Magento_Customer"
 "Invalid login or password.","Ongeldige log-in of wachtwoord.","module","Magento_Customer"
@@ -2146,6 +2146,7 @@ Fax,Fax,module,Magento_Customer
 "Password","Wachtwoord","module","Magento_Customer"
 "Login","Log in","module","Magento_Customer"
 "Forgot Your Password?","Wachtwoord vergeten?","module","Magento_Customer"
+"Forgot Your Password","Wachtwoord vergeten","module","Magento_Customer"
 "Subscription option","Inschrijvingsoptie","module","Magento_Customer"
 "General Subscription","Algemene inschrijving","module","Magento_Customer"
 "Sign Up for Newsletter","Aanmelding voor nieuwsbrief","module","Magento_Customer"
@@ -8344,3 +8345,4 @@ Account,Account,module,Magento_Theme
 "Wish List Section","Wensenlijst gedeelte","module","Magento_Wishlist"
 "Adding...","Bezig met toevoegen...",module,Magento_Catalog
 "Added","Toegevoegd",module,Magento_Catalog
+"Please type the letters and numbers below","Typ hieronder de letters en cijfers"
